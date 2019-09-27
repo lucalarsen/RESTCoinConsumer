@@ -1,0 +1,11 @@
+C:\Source\RestCoinConsumer\RestCoinConsumer\bin\Debug\netcoreapp2.1\RestCoinConsumer.deps.json
+C:\Source\RestCoinConsumer\RestCoinConsumer\bin\Debug\netcoreapp2.1\RestCoinConsumer.runtimeconfig.json
+C:\Source\RestCoinConsumer\RestCoinConsumer\bin\Debug\netcoreapp2.1\RestCoinConsumer.runtimeconfig.dev.json
+C:\Source\RestCoinConsumer\RestCoinConsumer\bin\Debug\netcoreapp2.1\RestCoinConsumer.dll
+C:\Source\RestCoinConsumer\RestCoinConsumer\obj\Debug\netcoreapp2.1\RestCoinConsumer.csprojAssemblyReference.cache
+C:\Source\RestCoinConsumer\RestCoinConsumer\obj\Debug\netcoreapp2.1\RestCoinConsumer.csproj.CoreCompileInputs.cache
+C:\Source\RestCoinConsumer\RestCoinConsumer\obj\Debug\netcoreapp2.1\RestCoinConsumer.AssemblyInfoInputs.cache
+C:\Source\RestCoinConsumer\RestCoinConsumer\obj\Debug\netcoreapp2.1\RestCoinConsumer.AssemblyInfo.cs
+C:\Source\RestCoinConsumer\RestCoinConsumer\bin\Debug\netcoreapp2.1\RestCoinConsumer.pdb
+C:\Source\RestCoinConsumer\RestCoinConsumer\obj\Debug\netcoreapp2.1\RestCoinConsumer.dll
+C:\Source\RestCoinConsumer\RestCoinConsumer\obj\Debug\netcoreapp2.1\RestCoinConsumer.pdb
